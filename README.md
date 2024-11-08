@@ -76,5 +76,6 @@ Nest is [MIT licensed](LICENSE).
 ```
 https://roadmap.sh/projects/weather-api-wrapper-service
 
-[front](https://github.com/broken1451/roadmap-weather-front)
 ```
+
+[front](https://github.com/broken1451/roadmap-weather-front)
