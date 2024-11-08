@@ -1,0 +1,7 @@
+port: 4000
+redisUlr: redis://localhost
+portRedis: 6379
+urlWeather: https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/
+keyWeather: VQ98VZ6VJSVCSSHR5WR279HFC
+unitGroup: metric
+passwordRedis: ""
